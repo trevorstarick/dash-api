@@ -1,6 +1,6 @@
 var express = require('express');
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/dash');
+// mongoose.connect('mongodb://localhost/dash');
 
 var Schema = mongoose.Schema;
 
